@@ -1,6 +1,6 @@
 # DeepLearning.ai Courses Notes
 
-This repository contains my personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.
+This repository contains course notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. I do like the course and I forked the notes repository from [mbadry1/DeepLearning.ai-Summary](https://github.com/mbadry1/DeepLearning.ai-Summary) and add my additonal notes.
 
 [DeepLearning.ai](https://deeplearning.ai)  contains five courses which can be taken on [Coursera](https://www.coursera.org/specializations/deep-learning). The five courses titles are:
 
@@ -30,9 +30,9 @@ This is by far the best course series on deep learning that I've taken. Enjoy!
 
 ## Specialization Certificate
 
-At last I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specialization/DTTJC9Y5B8U6)!
+Till now I've successfully completed the 3 courses and moving to my [certificate]()!
 
-![](Certificate.png)
+![]()
 
 
 
@@ -58,8 +58,6 @@ The list of reviews includes:
 - [Thoughts after taking the Deeplearning.ai courses](https://towardsdatascience.com/thoughts-after-taking-the-deeplearning-ai-courses-8568f132153)
 - [Learning Deep Learning — fast.ai vs. deeplearning.ai](https://medium.com/@markryan_69718/learning-deep-learning-fast-ai-vs-deeplearning-ai-34f9c42cf701)
 
-
-
 A good Facebook group that discusses the courses are here: https://www.facebook.com/groups/DeepLearningAISpecialization/.
 
 Group description:
@@ -67,19 +65,14 @@ Group description:
 > This group is for current, past or future students of Prof Andrew Ng's deeplearning.ai class in Coursera. The purpose is for students to get to know each other, ask questions, and share insights. However, remember the Coursera Honor Code - please do not post any solution in the forum! 
 
 
-
 ## Next steps
 
 Taking [fast.ai](http://www.fast.ai/) courses series as it focuses more on the practical works.
 
-## Acknowledgements
-
-Thanks to [VladKha](https://github.com/VladKha), [wangzhenhui1992](https://github.com/wangzhenhui1992), [jarpit96](https://github.com/jarpit96) for helping me revising and fixing mistakes in the notes.
-
 <br/>
 
 <br/>
 
 <br/>
 
-Mahmoud Badry @ 2018
+Zhiming Wang @ 2018
